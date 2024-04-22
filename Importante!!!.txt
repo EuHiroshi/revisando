@@ -1,0 +1,6 @@
+Middleware:
+nest doc --> Middleware is a function which is called before the route handler.
+Middleware é um software que conecta e facilita a comunicação entre diferentes aplicativos ou sistemas.
+
+Pipe: 
+O pipe é um mecanismo usado em sistemas operacionais que permite a comunicação entre processos, permitindo a transferência de dados de um processo para outro de forma sequencial.
